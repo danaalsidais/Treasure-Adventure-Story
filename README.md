@@ -9,4 +9,5 @@ The project features five scenes, character animations, geometric transformation
 * Designed and implemented Scene 2 – Journey Through the Forest, featuring trees, clouds, and character movement animations.
 * Also contributed to the final rune puzzle scene, which involves mouse interaction and solving the puzzle by clicking the glowing runes in the correct order.
 
-# Technologies: OpenGL, GLUT/FreeGLUT, Visual Studio
+# Technologies: 
+OpenGL, GLUT/FreeGLUT, Visual Studio
